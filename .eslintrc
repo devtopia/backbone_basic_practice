@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "backbone"
+  ],
+  "settings": {
+    "backbone": {
+      "Collection": ["Sample.Collections.Contact"],
+      "Model": ["Sample.Models.Contact"],
+      "View": ["Sample.Views.Contact"]
+    }
+  }
+}
